@@ -1,5 +1,5 @@
 Step by step guide on how to make the USB Rubber Ducky on a normal USB stick
-
+DOWNLOAD AS A ZIP NOTHING ELSE!
 
 1. You need to have Python 3.8.1 installed
 
