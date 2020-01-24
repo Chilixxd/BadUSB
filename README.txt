@@ -33,7 +33,7 @@ Step by step guide on how to make the USB Rubber Ducky on a normal USB stick
 
 16. And now everything should work just fine. If you have any issues just try the steps again or go to the Python Discord Server.
 
-17. If you change the Python script you will need to do step 9, 10 and 11
+17. If you change the Python script you will need to do step 9, 10 and 11 again
 
 18. Hope you enjoy my script:)
 
